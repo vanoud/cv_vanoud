@@ -185,7 +185,7 @@ body {
  #name {
     float: left;
     text-transform: uppercase;
-    padding: 8.5mm 0 0 7mm;
+    padding: 6.5mm 0 0 7mm;
  }
 
  #name h1 {
@@ -269,7 +269,7 @@ body {
 
  section:first-child {
     border-top: 0;
-    padding: 8mm 0 0 0;
+    padding: 4mm 0 0 0;
  }
 
  section:last-child {
